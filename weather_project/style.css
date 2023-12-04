@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  #weather-container {
+    margin-top: 50px;
+  }
+  
+  #image-container {
+    margin-top: 20px;
+  }
+  
